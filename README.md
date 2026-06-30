@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0042-trapping-rain-water) |
+| [0980-unique-paths-iii](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0980-unique-paths-iii) |
 | [1732-find-the-highest-altitude](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
@@ -65,4 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0029-divide-two-integers) |
+| [0980-unique-paths-iii](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0980-unique-paths-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0980-unique-paths-iii) |
+## Matrix
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->

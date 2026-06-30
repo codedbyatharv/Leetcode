@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1732-find-the-highest-altitude) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->

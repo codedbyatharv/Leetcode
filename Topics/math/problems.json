@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-08T07:22:47.072Z",
+  "updatedAt": "2026-07-08T07:24:15.366Z",
   "problems": [
+    {
+      "frontendId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "problemName": "0009-palindrome-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+      "folderPath": "0009-palindrome-number/",
+      "readmePath": "0009-palindrome-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0009-palindrome-number.cpp",
+          "path": "0009-palindrome-number/0009-palindrome-number.cpp",
+          "sha": "a2752bf1b933d0baf8628a7b7e400c585c9fe50e",
+          "lastSyncedAt": "2026-07-08T07:24:15.366Z"
+        }
+      ]
+    },
     {
       "frontendId": "3754",
       "title": "Concatenate Non-Zero Digits and Multiply by Sum I",

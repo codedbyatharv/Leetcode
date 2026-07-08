@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-08T07:22:35.666Z",
+  "updatedAt": "2026-07-08T07:22:47.072Z",
   "problems": [
+    {
+      "frontendId": "3754",
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+      "slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+      "problemName": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/",
+      "folderPath": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i/",
+      "readmePath": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i.cpp",
+          "path": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.cpp",
+          "sha": "134ea88343d87e7738727199c2a3bd95d678207e",
+          "lastSyncedAt": "2026-07-08T07:22:47.072Z"
+        }
+      ]
+    },
     {
       "frontendId": "3756",
       "title": "Concatenate Non-Zero Digits and Multiply by Sum II",

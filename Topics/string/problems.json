@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-08T07:22:24.336Z",
+  "updatedAt": "2026-07-08T07:22:35.666Z",
   "problems": [
     {
       "frontendId": "14",
@@ -23,6 +23,26 @@
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.py",
           "sha": "87f5dc42e808dc3bf7134e783aa7d3fde50ddf72",
           "lastSyncedAt": "2026-07-08T07:22:24.336Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3756",
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+      "slug": "concatenate-non-zero-digits-and-multiply-by-sum-ii",
+      "problemName": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/",
+      "folderPath": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/",
+      "readmePath": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.py",
+          "path": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.py",
+          "sha": "c6da80577c6b728d1d49d6692d1ffbc081af7b87",
+          "lastSyncedAt": "2026-07-08T07:22:35.666Z"
         }
       ]
     }
